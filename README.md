@@ -1,5 +1,5 @@
 # uptime
-Minimal uptime that doesn't require `/proc` and uses `sysinfo`
+Minimal uptime that doesn't require `/proc` and uses `sysinfo(2)`
 
 ## Example output
 ```
