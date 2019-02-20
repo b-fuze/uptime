@@ -9,6 +9,6 @@ Up 1 weeks, 2 days, 6 hours, 2 minutes, and 37 seconds
 ```
 
 ## Motivation
-I needed to use it on a system that didn't have `/proc`, was old, and getting
-GNU's uptime library depedencies working on the target system wasn't worth the hassle.
+I needed to use it on a target system that didn't have `/proc`, was old, and was not
+worth the hassle of getting the GNU `uptime` dependencies working.
 
